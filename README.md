@@ -24,9 +24,7 @@ The game offers the following difficulty levels:
 - Hard: Guesses: 20, Range: 1 - 1000
 - Pro: Guesses: 15, Range: 1 - 5000
 
-## Prerequisites
 
-- .NET Framework (version X.X or higher) must be installed.
 
 ## Usage
 
